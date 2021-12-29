@@ -4,7 +4,7 @@ module.exports = {
   mode: 'development',
   entry: './src/main.ts',
   output: {
-    filename: 'bundle.jsx',
+    filename: 'sabun_export.jsx',
     path: path.join(__dirname, 'dist')
   },
   module: {
